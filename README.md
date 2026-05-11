@@ -71,8 +71,7 @@ Real-time Streaming Analytics
 Mobile Responsive Dashboard
 
 🤝 Connect With Me
-LinkedIn: your-linkedin-link
-GitHub: your-github-link
+LinkedIn: -[Laxmi Kaur](https://www.linkedin.com/in/laxmikaurdataanalyst/)
 
 ⭐ If you found this project useful, consider giving it a star!
 
