@@ -45,8 +45,7 @@ This dashboard provides a comprehensive analysis of Spotify data using Power BI 
 
 ## 📸 Dashboard Preview
 
-![Spotify Dashboard](./spotify-dashboard.png)
-
+![Spotify Dashboard](https://raw.githubusercontent.com/Laxmikaur/Spotify-Analytics-Dashboard-Power-BI/main/Spotify%20power%20bi%20dashboard.png)
 ---
 
 ## 📂 Project Files
